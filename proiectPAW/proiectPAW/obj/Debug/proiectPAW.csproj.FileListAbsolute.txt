@@ -1,0 +1,42 @@
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe.config
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\bin\Debug\proiectPAW.pdb
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.AssemblyReference.cache
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.LoginPage.resources
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Properties.Resources.resources
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.GenerateResource.cache
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.exe
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.pdb
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.CreateAcc.resources
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.MainMeniu.resources
+C:\Users\Alex Ariton\source\repos\proiectPAW\proiectPAW\obj\Debug\proiectPAW.ViewAcc.resources
+D:\Windows\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe.config
+D:\Windows\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe
+D:\Windows\proiectPAW\proiectPAW\bin\Debug\proiectPAW.pdb
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.AssemblyReference.cache
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.SuggestedBindingRedirects.cache
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.CreateAcc.resources
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.LoginPage.resources
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.MainMeniu.resources
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Properties.Resources.resources
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.ViewAcc.resources
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.GenerateResource.cache
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.CoreCompileInputs.cache
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.exe
+D:\Windows\proiectPAW\proiectPAW\obj\Debug\proiectPAW.pdb
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.AssemblyReference.cache
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.SuggestedBindingRedirects.cache
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.CreateAcc.resources
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.LoginPage.resources
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.MainMeniu.resources
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.Properties.Resources.resources
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.ViewAcc.resources
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.GenerateResource.cache
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.csproj.CoreCompileInputs.cache
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.exe
+D:\Windows\PAW\proiectPAW\proiectPAW\obj\Debug\proiectPAW.pdb
+D:\Windows\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe.config
+D:\Windows\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.exe
+D:\Windows\PAW\proiectPAW\proiectPAW\bin\Debug\proiectPAW.pdb
